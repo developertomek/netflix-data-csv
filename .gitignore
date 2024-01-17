@@ -1,0 +1,26 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+env/
+bin/
+lib/
+include/
+etc/
+share/
+
+# Editor-specific
+.vscode/
+
+# Others
+pyenv.cfg
+.DS_Store
+Thumbs.db
+pyvenv.cfg
